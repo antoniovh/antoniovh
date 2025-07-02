@@ -86,7 +86,7 @@ Universidad Complutense de Madrid · 2015 - 2020
 ## 🌐 Languages
 
 **Spanish:** Native  
-**English:** Professional (B2)
+**English:** Professional
 
 ---
 
