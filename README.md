@@ -90,7 +90,7 @@ Universidad Complutense de Madrid · 2015 - 2020
 
 ---
 
-## Let's connect!
+## :star: Let's connect!
 - [LinkedIn](https://www.linkedin.com/in/antoniovelascohorcajada/) 
 - [GitHub](https://github.com/antoniovh) 
 - [Email](mailto:antoniovelascohorcajada@gmail.com)
